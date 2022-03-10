@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucc28
 - 👀 I’m interested in web3, wordpress integrations
 - 🌱 I’m currently learning react, next, javascript
-- 💞️ I’m looking to collaborate on web developement
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me luc@web-guys.com
 
 <!---
